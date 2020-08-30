@@ -1,3 +1,4 @@
+#Escriba un programa que pida un número entero mayor que 1 y que escriba si el número es un número primo o no.
     print("NÚMERO PRIMO")
     numero = int(input("Escriba un número entero mayor que 1: "))
 
