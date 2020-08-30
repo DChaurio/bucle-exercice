@@ -1,3 +1,6 @@
+#Escriba un programa que pida dos números enteros y escriba la suma de todos los enteros desde el primer número hasta el segundo.
+
+
     print("NÚMERO PRIMO")
     numero = int(input("Escriba un número entero mayor que 1: "))
 
